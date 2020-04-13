@@ -1,0 +1,3 @@
+- Simple JavaFX example with a window and a button, prints something to console
+- uses gradle with "org.openjfx.javafxplugin"-plugin
+- produces jar w/o dependencies and w/o start script
